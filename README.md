@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://https://github.com/Orisono728/Orisono728/blob/main/space.webp?raw=true" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/Orisono728/Orisono728/main/space.webp" width="100%" alt="banner"/>
 
 <br/><br/>
 
