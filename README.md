@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,39D353&height=180&section=header&text=%C4%A7Orisono728&fontColor=39D353&fontSize=48&fontAlignY=55&desc=Sistemas%20%26%20Computaci%C3%B3n%20%C2%B7%20Universidad%20del%20Quind%C3%ADo%20%C2%B7%20Colombia&descFontColor=8b949e&descSize=13&descAlignY=75" width="100%"/>
+<!-- James Webb Space Telescope — First Deep Field (NASA/ESA/CSA · public domain) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Webb%27s_First_Deep_Field.jpg/1280px-Webb%27s_First_Deep_Field.jpg" width="100%" alt="James Webb First Deep Field"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1800&color=39D353&center=true&vCenter=true&width=500&lines=physics+%C3%97+code+%C3%97+hardware;learning+the+systems+beneath+the+systems.;he%2Fhim+%C2%B7+Quind%C3%ADo%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1800&color=39D353&center=true&vCenter=true&width=520&lines=%C4%A7Orisono728+%C2%B7+he%2Fhim+%C2%B7+Colombia;Sistemas+%26+Computaci%C3%B3n+%40+UniQuind%C3%ADo;physics+%C3%97+code+%C3%97+hardware;learning+the+systems+beneath+the+systems." />
 </a>
 
 <br/><br/>
@@ -75,12 +76,23 @@ shell    = "bash"
 
   <img src="https://streak-stats.demolab.com?user=Orisono728&theme=github-dark&hide_border=true&background=00000000&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=8b949e&dates=8b949e&sideNums=39D353&currStreakNum=ffffff" />
 
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orisono728&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=39D353&text_color=8b949e&langs_count=5"/>
-
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39D353,0d1117&height=100&section=footer" width="100%"/>
+---
+
+<div align="center">
+
+<!-- Pillars of Creation — Webb NIRCam (NASA/ESA/CSA · public domain) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg/800px-Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg" width="60%" alt="Pillars of Creation — Hubble"/>
+
+<br/><br/>
+
+```
+> "Understand the machine. Then build the next one."
+```
+
+*— ħOrisono728*
+
+</div>
