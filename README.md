@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&height=160&section=header&text=%C4%A7Orisono728&fontColor=39D353&fontSize=52&fontAlignY=70&fontAlign=30&desc=Sistemas%20%26%20Computaci%C3%B3n%20%C2%B7%20Universidad%20del%20Quind%C3%ADo%20%C2%B7%20Colombia&descFontColor=8b949e&descSize=13&descAlign=60&descAlignY=80" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,39D353&height=180&section=header&text=%C4%A7Orisono728&fontColor=39D353&fontSize=48&fontAlignY=55&desc=Sistemas%20%26%20Computaci%C3%B3n%20%C2%B7%20Universidad%20del%20Quind%C3%ADo%20%C2%B7%20Colombia&descFontColor=8b949e&descSize=13&descAlignY=75" width="100%"/>
 
 <br/>
-
-<div align="center">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1800&color=39D353&center=true&vCenter=true&width=500&lines=physics+%C3%97+code+%C3%97+hardware;learning+the+systems+beneath+the+systems.;he%2Fhim+%C2%B7+Quind%C3%ADo%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
@@ -73,7 +73,9 @@ shell    = "bash"
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Orisono728&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=39D353&icon_color=39D353&text_color=8b949e&hide=issues,contribs&rank_icon=github" />
+  <img src="https://streak-stats.demolab.com?user=Orisono728&theme=github-dark&hide_border=true&background=00000000&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=8b949e&dates=8b949e&sideNums=39D353&currStreakNum=ffffff" />
+
+  <br/><br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orisono728&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=39D353&text_color=8b949e&langs_count=5"/>
 
@@ -81,4 +83,4 @@ shell    = "bash"
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&height=80&section=footer&reversal=true&fontColor=39D353" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39D353,0d1117&height=100&section=footer" width="100%"/>
