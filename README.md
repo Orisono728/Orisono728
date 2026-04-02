@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- James Webb Space Telescope — First Deep Field (NASA/ESA/CSA · public domain) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Webb%27s_First_Deep_Field.jpg/1280px-Webb%27s_First_Deep_Field.jpg" width="100%" alt="James Webb First Deep Field"/>
+<img src="https://raw.githubusercontent.com/Orisono728/Orisono728/main/flame.jpg" width="100%" alt="banner"/>
 
 <br/><br/>
 
@@ -84,8 +83,7 @@ shell    = "bash"
 
 <div align="center">
 
-<!-- Pillars of Creation — Webb NIRCam (NASA/ESA/CSA · public domain) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg/800px-Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg" width="60%" alt="Pillars of Creation — Hubble"/>
+<img src="https://raw.githubusercontent.com/Orisono728/Orisono728/main/mundo.jpg" width="65%" alt="mundo"/>
 
 <br/><br/>
 
