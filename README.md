@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Artemis_I_Liftoff.jpg/1280px-Artemis_I_Liftoff.jpg" width="100%" alt="Artemis I SLS Liftoff"/>
+<!-- James Webb Space Telescope — First Deep Field (NASA/ESA/CSA · public domain) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Webb%27s_First_Deep_Field.jpg/1280px-Webb%27s_First_Deep_Field.jpg" width="100%" alt="James Webb First Deep Field"/>
 
 <br/><br/>
 
@@ -38,54 +39,55 @@ os       = ["Arch Linux", "Debian", "Fedora"]
 de       = "KDE Plasma"
 editor   = "VS Code"
 shell    = "bash"
-````
+```
 
------
+---
 
-\<h3 align="center"\>⌗ stack\</h3\>
+<h3 align="center">⌗ stack</h3>
 
-\<p align="center"\>
-\<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white"/\>
-\<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white"/\>
-\<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black"/\>
-\<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white"/\>
-\<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white"/\>
-\</p\>
+<p align="center">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-\<p align="center"\>
-\<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white"/\>
-\<img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white"/\>
-\<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white"/\>
-\<img alt="GitHub Pages" src="https://img.shields.io/badge/Pages-181717?style=for-the-badge\&logo=github\&logoColor=white"/\>
-\</p\>
+<p align="center">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/Pages-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-\<p align="center"\>
-\<img alt="Arch" src="https://img.shields.io/badge/Arch\_Linux-1793D1?style=for-the-badge\&logo=archlinux\&logoColor=white"/\>
-\<img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge\&logo=debian\&logoColor=white"/\>
-\<img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge\&logo=fedora\&logoColor=white"/\>
-\<img alt="KDE" src="https://img.shields.io/badge/KDE\_Plasma-1D99F3?style=for-the-badge\&logo=kde\&logoColor=white"/\>
-\<img alt="VS Code" src="https://img.shields.io/badge/VS\_Code-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white"/\>
-\</p\>
+<p align="center">
+  <img alt="Arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
+  <img alt="KDE" src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
------
+---
 
-\<h3 align="center"\>⌗ stats\</h3\>
+<h3 align="center">⌗ stats</h3>
 
-\<div align="center"\>
+<div align="center">
 
-\<img src="https://streak-stats.demolab.com?user=Orisono728\&theme=github-dark\&hide\_border=true\&background=00000000\&stroke=39D353\&ring=39D353\&fire=39D353\&currStreakLabel=39D353\&sideLabels=8b949e\&dates=8b949e\&sideNums=39D353\&currStreakNum=ffffff" /\>
+  <img src="https://streak-stats.demolab.com?user=Orisono728&theme=github-dark&hide_border=true&background=00000000&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=8b949e&dates=8b949e&sideNums=39D353&currStreakNum=ffffff" />
 
-\</div\>
+</div>
 
-<br>
+<br/>
 
------
+---
 
-\<div align="center"\>
+<div align="center">
 
-\<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Starship\_Flight\_4\_Lift\_Off\_%252853769188043%2529.jpg/800px-Starship\_Flight\_4\_Lift\_Off\_%252853769188043%2529.jpg" width="60%" alt="SpaceX Starship Ascent"/\>
+<!-- Pillars of Creation — Webb NIRCam (NASA/ESA/CSA · public domain) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg/800px-Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg" width="60%" alt="Pillars of Creation — Hubble"/>
 
-<br><br>
+<br/><br/>
 
 ```
 > "Understand the machine. Then build the next one."
@@ -93,4 +95,4 @@ shell    = "bash"
 
 *— ħOrisono728*
 
-\</div\>
+</div>
