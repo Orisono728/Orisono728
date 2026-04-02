@@ -22,7 +22,7 @@
 
 ```toml
 [user]
-handle   = "ħOrisono728"   # he/him
+handle   = "Orisono728"   # he/him
 location = "Quindío · Colombia"
 
 [study]
@@ -31,7 +31,7 @@ road     = "CS fundamentals → hardware-software integration → research"
 
 [interests]
 core     = ["computation", "physics", "electronics", "open source"]
-side     = ["geopolitics", "indie game dev", "linux ricing"]
+side     = ["science", "indie game dev", "cybersecurity"]
 
 [setup]
 os       = ["Arch Linux", "Debian", "Fedora"]
@@ -91,6 +91,7 @@ shell    = "bash"
 > "Understand the machine. Then build the next one."
 ```
 
-*— ħOrisono728*
+*— Orisono728*
 
 </div>
+
