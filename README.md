@@ -23,10 +23,10 @@
 ```toml
 [user]
 handle   = "Orisono728"   # he/him
-location = "Quindío · Colombia"
+location = "Colombia"
 
 [study]
-degree   = "Ing. Sistemas y Computación @ Universidad del Quindío"
+degree   = "Ing. Sistemas y Computación 
 road     = "CS fundamentals → hardware-software integration → research"
 
 [interests]
